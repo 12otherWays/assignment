@@ -1,0 +1,29 @@
+body {
+  position: relative;
+}
+.cornerIcon {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+.main {
+  margin: 4px 160px 4px 120px;
+}
+.heading {
+  font-size: 26px;
+  font-weight: 800;
+  color: rgb(0, 0, 255);
+}
+.box {
+  margin-top: 32px;
+  padding: 1rem;
+  background-color: rgb(228, 231, 235);
+  border-radius: 8px;
+}
+.box h3 {
+  font-size: 20px;
+  font-weight: 800;
+}
+.box p {
+  font-size: 14px;
+}
