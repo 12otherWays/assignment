@@ -3,29 +3,9 @@ import { BsFillHouseFill, BsFillBellFill } from "react-icons/bs";
 import { FaBinoculars, FaTools } from "react-icons/fa";
 import { BiUser, BiDotsVerticalRounded } from "react-icons/bi";
 
-const style = {
-  color: "white",
-  height: "16px",
-  width: "16px",
-};
-const divStyle = {
-  display: "flex",
-  justifyContent: "center",
-  alignItems: "center",
-  border: "1px solid rgb(43,106,235)",
-  borderRadius: "50%",
-  height: "30px",
-  width: "30px",
-  backgroundColor: "rgb(43,106,235)",
-  margin: "2px 6px",
-};
-
 function Header() {
   return (
-    <div
-      className="flex h-20 px-24 py-6 justify-between items-center fixed w-full top-0"
-      style={{ backgroundColor: "rgb(236,236,236)" }}
-    >
+    <div className="flex h-20 px-24 py-6 justify-between items-center fixed w-full top-0 headerDiv">
       <div className="icon">
         <img
           className="h-11"
@@ -35,24 +15,22 @@ function Header() {
         />
       </div>
       <div className="flex items-center justify-center">
-        <div style={divStyle}>
-          <BsFillHouseFill style={style} />
+        <div className="headerIconDiv">
+          <BsFillHouseFill className="headerIcon" />
         </div>
-        <div style={divStyle}>
-          <FaBinoculars style={style} />
+        <div className="headerIconDiv">
+          <FaBinoculars className="headerIcon" />
         </div>
-        <div style={divStyle}>
-          <FaTools style={style} />
+        <div className="headerIconDiv">
+          <FaTools className="headerIcon" />
         </div>
-        <div style={divStyle}>
-          <BsFillBellFill style={style} />
+        <div className="headerIconDiv">
+          <BsFillBellFill className="headerIcon" />
         </div>
-        <div style={divStyle}>
-          <BiUser style={style} />
+        <div className="headerIconDiv">
+          <BiUser className="headerIcon" />
         </div>
-        <BiDotsVerticalRounded
-          style={{ color: "rgb(43,106,235)", height: "26px", width: "26px" }}
-        />
+        <BiDotsVerticalRounded className="last-icon" />
       </div>
     </div>
   );
