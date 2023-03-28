@@ -1,1 +1,1 @@
-# Deep Thought Assignment
+# Assignment
