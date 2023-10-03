@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.MuiPagination-ul > li > .Mui-selected {
+  background-color: rgb(59, 132, 223);
+}

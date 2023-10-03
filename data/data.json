@@ -1,0 +1,632 @@
+[
+  {
+    "company": "Toyota Camry",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "25 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$25",
+    "image": "https://www.cnet.com/a/img/resize/4476006d1312ec379ee616af256b7596321b3742/hub/2021/08/20/257caf0a-f3a2-45db-9c70-d6ed50a85e6f/2021-toyota-camry-trd-ogi-1.jpg?auto=webp&fit=crop&height=900&width=1200"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Honda Accord",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://cdn.motor1.com/images/mgl/0e4v8n/s3/2022-honda-accord-sport-exterior.webp"
+  },
+  {
+    "company": "Ford Escape",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "100 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$35",
+    "image": "https://build.ford.com/dig/Ford/Escape/2024/HD-TILE%5BEXTBCK1%5D/Image%5B%7CFord%7CEscape%7C2024%7C1%7C1.%7C200A...PPQ..88C.89B.64T.FWD.99N.ACTIV.%5D/EXT/4/vehicle.png"
+  },
+  {
+    "company": "Chevrolet Malibu",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2019-chevrolet-malibu-rs-124-1568289291.jpg?crop=0.800xw:0.734xh;0.0537xw,0.197xh&resize=1200:*"
+  },
+  {
+    "company": "Tesla Model 3",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "300 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg?tr=w-456"
+  },
+  {
+    "company": "Tesla Model S",
+    "year_of_manufacturing": 2020,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "200 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://media.evo.co.uk/image/private/s--XfLTTcWt--/f_auto,t_content-image-full-desktop@1/v1695379931/evo/2023/09/Tesla%20Model%20S%20Plaid%20evo%2023.jpg"
+  },
+  {
+    "company": "BMW 3 Series",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "35 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://img.indianauto.com/crop/500x375/2020/03/26/597feddc-fd31-464c-b897-254e37e6ff1d-422d.jpg"
+  },
+  {
+    "company": "Mercedes-Benz C-Class",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$42",
+    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/116201/c-class-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "company": "Audi A4",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "28 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$38",
+    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220208104501_Audi_A4_LT_1.jpg&w=726&h=482&q=75&c=1"
+  },
+  {
+    "company": "Nissan Altima",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "32 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$26",
+    "image": "https://www.cnet.com/a/img/resize/bc6c4f8e00565c06e282eb0620925d066d8602ce/hub/2018/12/31/b95656bb-2762-45c7-b53a-c95800f63d0d/2019-nissan-altima-platinum-68.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "company": "Volkswagen Passat",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://www.cartoq.com/wp-content/uploads/2020/07/Volkswagen-Passat-2020-1280-01-1.jpg"
+  },
+  {
+    "company": "Hyundai Sonata",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$24",
+    "image": "https://s1.cdn.autoevolution.com/images-webp/news/2022-hyundai-sonata-n-line-night-edition-hits-dealers-with-sporty-visual-makeover-171588-7.jpg.webp"
+  },
+  {
+    "company": "Kia Optima",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "31 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$23",
+    "image": "https://www.driva.com.au/static/537d807b334995c2781ad761a9c37816/01c9c/a99111f0-2670-4138-955f-71bde89f24a1_2023_Kia-K5-39.webp"
+  },
+  {
+    "company": "Subaru Legacy",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$26",
+    "image": "https://s1.cdn.autoevolution.com/images/news/gallery/virtually-refreshed-toyota-supra-disregards-gr-strives-for-divisive-mk4-legacy_34.jpg"
+  },
+  {
+    "company": "Mazda Mazda6",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg/560px-2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg"
+  },
+  {
+    "company": "Lexus ES",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "33 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$42",
+    "image": "https://www.lexusindia.co.in/content/dam/lexus-v3-blueprint/models/sedan/es/mlp/my23/features/lexus-es-features-elegance-meets-style.jpg"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Volvo S60",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/27032/new-s60-exterior-left-front-three-quarter-2.jpeg?q=80&q=80"
+  },
+  {
+    "company": "Toyota Camry",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "25 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$25",
+    "image": "https://www.cnet.com/a/img/resize/4476006d1312ec379ee616af256b7596321b3742/hub/2021/08/20/257caf0a-f3a2-45db-9c70-d6ed50a85e6f/2021-toyota-camry-trd-ogi-1.jpg?auto=webp&fit=crop&height=900&width=1200"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Honda Accord",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://cdn.motor1.com/images/mgl/0e4v8n/s3/2022-honda-accord-sport-exterior.webp"
+  },
+  {
+    "company": "Ford Escape",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "100 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$35",
+    "image": "https://build.ford.com/dig/Ford/Escape/2024/HD-TILE%5BEXTBCK1%5D/Image%5B%7CFord%7CEscape%7C2024%7C1%7C1.%7C200A...PPQ..88C.89B.64T.FWD.99N.ACTIV.%5D/EXT/4/vehicle.png"
+  },
+  {
+    "company": "Chevrolet Malibu",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2019-chevrolet-malibu-rs-124-1568289291.jpg?crop=0.800xw:0.734xh;0.0537xw,0.197xh&resize=1200:*"
+  },
+  {
+    "company": "Tesla Model 3",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "300 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg?tr=w-456"
+  },
+  {
+    "company": "Tesla Model S",
+    "year_of_manufacturing": 2020,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "200 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://media.evo.co.uk/image/private/s--XfLTTcWt--/f_auto,t_content-image-full-desktop@1/v1695379931/evo/2023/09/Tesla%20Model%20S%20Plaid%20evo%2023.jpg"
+  },
+  {
+    "company": "BMW 3 Series",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "35 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://img.indianauto.com/crop/500x375/2020/03/26/597feddc-fd31-464c-b897-254e37e6ff1d-422d.jpg"
+  },
+  {
+    "company": "Mercedes-Benz C-Class",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$42",
+    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/116201/c-class-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "company": "Audi A4",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "28 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$38",
+    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220208104501_Audi_A4_LT_1.jpg&w=726&h=482&q=75&c=1"
+  },
+  {
+    "company": "Nissan Altima",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "32 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$26",
+    "image": "https://www.cnet.com/a/img/resize/bc6c4f8e00565c06e282eb0620925d066d8602ce/hub/2018/12/31/b95656bb-2762-45c7-b53a-c95800f63d0d/2019-nissan-altima-platinum-68.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "company": "Volkswagen Passat",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://www.cartoq.com/wp-content/uploads/2020/07/Volkswagen-Passat-2020-1280-01-1.jpg"
+  },
+  {
+    "company": "Hyundai Sonata",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$24",
+    "image": "https://s1.cdn.autoevolution.com/images-webp/news/2022-hyundai-sonata-n-line-night-edition-hits-dealers-with-sporty-visual-makeover-171588-7.jpg.webp"
+  },
+  {
+    "company": "Kia Optima",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "31 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$23",
+    "image": "https://www.driva.com.au/static/537d807b334995c2781ad761a9c37816/01c9c/a99111f0-2670-4138-955f-71bde89f24a1_2023_Kia-K5-39.webp"
+  },
+  {
+    "company": "Subaru Legacy",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$26",
+    "image": "https://s1.cdn.autoevolution.com/images/news/gallery/virtually-refreshed-toyota-supra-disregards-gr-strives-for-divisive-mk4-legacy_34.jpg"
+  },
+  {
+    "company": "Mazda Mazda6",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg/560px-2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg"
+  },
+  {
+    "company": "Lexus ES",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "33 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$42",
+    "image": "https://www.lexusindia.co.in/content/dam/lexus-v3-blueprint/models/sedan/es/mlp/my23/features/lexus-es-features-elegance-meets-style.jpg"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Volvo S60",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/27032/new-s60-exterior-left-front-three-quarter-2.jpeg?q=80&q=80"
+  },
+  {
+    "company": "Toyota Camry",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "25 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$25",
+    "image": "https://www.cnet.com/a/img/resize/4476006d1312ec379ee616af256b7596321b3742/hub/2021/08/20/257caf0a-f3a2-45db-9c70-d6ed50a85e6f/2021-toyota-camry-trd-ogi-1.jpg?auto=webp&fit=crop&height=900&width=1200"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Honda Accord",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://cdn.motor1.com/images/mgl/0e4v8n/s3/2022-honda-accord-sport-exterior.webp"
+  },
+  {
+    "company": "Ford Escape",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "100 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$35",
+    "image": "https://build.ford.com/dig/Ford/Escape/2024/HD-TILE%5BEXTBCK1%5D/Image%5B%7CFord%7CEscape%7C2024%7C1%7C1.%7C200A...PPQ..88C.89B.64T.FWD.99N.ACTIV.%5D/EXT/4/vehicle.png"
+  },
+  {
+    "company": "Chevrolet Malibu",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2019-chevrolet-malibu-rs-124-1568289291.jpg?crop=0.800xw:0.734xh;0.0537xw,0.197xh&resize=1200:*"
+  },
+  {
+    "company": "Tesla Model 3",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "300 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg?tr=w-456"
+  },
+  {
+    "company": "Tesla Model S",
+    "year_of_manufacturing": 2020,
+    "no_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "200 miles per charge",
+    "driving_type": "All-wheel drive",
+    "price": "$45",
+    "image": "https://media.evo.co.uk/image/private/s--XfLTTcWt--/f_auto,t_content-image-full-desktop@1/v1695379931/evo/2023/09/Tesla%20Model%20S%20Plaid%20evo%2023.jpg"
+  },
+  {
+    "company": "BMW 3 Series",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "35 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://img.indianauto.com/crop/500x375/2020/03/26/597feddc-fd31-464c-b897-254e37e6ff1d-422d.jpg"
+  },
+  {
+    "company": "Mercedes-Benz C-Class",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$42",
+    "image": "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/116201/c-class-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+  },
+  {
+    "company": "Audi A4",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "28 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$38",
+    "image": "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20220208104501_Audi_A4_LT_1.jpg&w=726&h=482&q=75&c=1"
+  },
+  {
+    "company": "Nissan Altima",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "32 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$26",
+    "image": "https://www.cnet.com/a/img/resize/bc6c4f8e00565c06e282eb0620925d066d8602ce/hub/2018/12/31/b95656bb-2762-45c7-b53a-c95800f63d0d/2019-nissan-altima-platinum-68.jpg?auto=webp&fit=crop&height=675&width=1200"
+  },
+  {
+    "company": "Volkswagen Passat",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "30 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$28",
+    "image": "https://www.cartoq.com/wp-content/uploads/2020/07/Volkswagen-Passat-2020-1280-01-1.jpg"
+  },
+  {
+    "company": "Hyundai Sonata",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$24",
+    "image": "https://s1.cdn.autoevolution.com/images-webp/news/2022-hyundai-sonata-n-line-night-edition-hits-dealers-with-sporty-visual-makeover-171588-7.jpg.webp"
+  },
+  {
+    "company": "Kia Optima",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "31 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$23",
+    "image": "https://www.driva.com.au/static/537d807b334995c2781ad761a9c37816/01c9c/a99111f0-2670-4138-955f-71bde89f24a1_2023_Kia-K5-39.webp"
+  },
+  {
+    "company": "Subaru Legacy",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$26",
+    "image": "https://s1.cdn.autoevolution.com/images/news/gallery/virtually-refreshed-toyota-supra-disregards-gr-strives-for-divisive-mk4-legacy_34.jpg"
+  },
+  {
+    "company": "Mazda Mazda6",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "27 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$27",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg/560px-2018_Mazda6_Sport_NAV%2B_Diesel_2.2_Front.jpg"
+  },
+  {
+    "company": "Lexus ES",
+    "year_of_manufacturing": 2021,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "33 mpg",
+    "driving_type": "Front-wheel drive",
+    "price": "$42",
+    "image": "https://www.lexusindia.co.in/content/dam/lexus-v3-blueprint/models/sedan/es/mlp/my23/features/lexus-es-features-elegance-meets-style.jpg"
+  },
+  {
+    "company": "Acura TLX",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Petrol",
+    "mileage": "29 mpg",
+    "driving_type": "All-wheel drive",
+    "price": "$36",
+    "image": "https://www.acura.com/-/media/Acura-Platform/Vehicle-Pages/TLX/2023/gallery-page/Exterior/Thumb/20-acura-tlx-2023-gallery-exterior-thumbview-square-tyger-eye-pearl-3-4-side-view.jpg?mw=584&hash=0520443D146C29EFF17A8F162F2C798A"
+  },
+  {
+    "company": "Infiniti Q50",
+    "year_of_manufacturing": 2023,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://www.infinitiusa.com/content/dam/Infiniti/US/vehicles/Q50/2023/overview/v2/blue-2023-infiniti-q50.jpg"
+  },
+  {
+    "company": "Volvo S60",
+    "year_of_manufacturing": 2022,
+    "no_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "driving_type": "Rear-wheel drive",
+    "price": "$40",
+    "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/27032/new-s60-exterior-left-front-three-quarter-2.jpeg?q=80&q=80"
+  }
+]
